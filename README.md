@@ -1,3 +1,5 @@
+- For overview of httpapi and code https://medium.com/avmconsulting-blog/http-apis-in-aws-api-gateway-82572e4ddd65
+
 # Welcome to your CDK TypeScript project!
 
 This is a blank project for TypeScript development with CDK.
